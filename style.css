@@ -139,8 +139,8 @@ body {
 }
 
 .six .lydia-dp {
-  width: 400px; /* Adjust as needed */
-  height: 400px; /* Matches width to create a square */
+  width: 300px; /* Adjust as needed */
+  height: 300px; /* Matches width to create a square */
   object-fit: cover; /* Ensures the image fills the square without distortion */
   border-radius: 50%; /* Makes it circular if desired */
   display: block;
